@@ -1,0 +1,12 @@
+numpy 
+pandas 
+scikit-learn
+tensorflow
+emoji
+requests
+opencv-python
+transformers 
+Pillow 
+gensim
+nltk 
+gdown

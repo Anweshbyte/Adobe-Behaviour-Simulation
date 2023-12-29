@@ -1,0 +1,8 @@
+pandas
+numpy
+openai
+opencv-python
+openpyxl
+requests
+fastdup
+gdown
